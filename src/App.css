@@ -1,0 +1,12 @@
+.App {
+
+    background: rgb(221, 79, 79);
+    height: 100vh;
+    background: rgb(29, 20, 201);
+    background: linear-gradient(90deg, rgb(93, 86, 237) 0%, rgb(107, 45, 92) 20%, rgb(184, 139, 219));
+}
+
+.image-widht {
+  width: 90%;
+}
+
